@@ -1,0 +1,3 @@
+---
+permalink: /Kitsune Lua.html
+---
